@@ -1,4 +1,4 @@
-def printmyname(name) {
+def call(String name = "no name") {
    echo "${name}"
   
 }
