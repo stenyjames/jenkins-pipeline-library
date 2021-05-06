@@ -1,3 +1,3 @@
-def call(name) {
+def speak(name) {
 		echo "Welcome, ${name}."
 }
