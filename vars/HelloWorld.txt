@@ -1,0 +1,2 @@
+This groovy function just prints the name.
+ The default string is already provided.
