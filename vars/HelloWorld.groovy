@@ -1,4 +1,4 @@
-def call(String name = "no name") {
+def Say(String name = "no name") {
    echo "${name}"
   
 }
